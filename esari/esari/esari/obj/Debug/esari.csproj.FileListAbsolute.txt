@@ -1,0 +1,14 @@
+C:\Users\oo144\Desktop\esari_app\esari-20230419T023303Z-001\esari\esari\esari\bin\Debug\esari.exe.config
+C:\Users\oo144\Desktop\esari_app\esari\esari\esari\bin\Debug\esari.exe.config
+C:\Users\oo144\Desktop\esari_app\esari\esari\esari\bin\Debug\esari.exe
+C:\Users\oo144\Desktop\esari_app\esari\esari\esari\bin\Debug\esari.pdb
+C:\Users\oo144\Desktop\esari_app\esari\esari\esari\obj\Debug\esari.csprojResolveAssemblyReference.cache
+C:\Users\oo144\Desktop\esari_app\esari\esari\esari\obj\Debug\esari.createAccount.resources
+C:\Users\oo144\Desktop\esari_app\esari\esari\esari\obj\Debug\esari.Form1.resources
+C:\Users\oo144\Desktop\esari_app\esari\esari\esari\obj\Debug\esari.Form2.resources
+C:\Users\oo144\Desktop\esari_app\esari\esari\esari\obj\Debug\esari.Properties.Resources.resources
+C:\Users\oo144\Desktop\esari_app\esari\esari\esari\obj\Debug\esari.csproj.GenerateResource.Cache
+C:\Users\oo144\Desktop\esari_app\esari\esari\esari\obj\Debug\esari.exe
+C:\Users\oo144\Desktop\esari_app\esari\esari\esari\obj\Debug\esari.pdb
+C:\Users\oo144\Desktop\esari_app\esari\esari\esari\obj\Debug\esari.dashboard.resources
+C:\Users\oo144\Desktop\esari_app\esari\esari\esari\obj\Debug\esari.Order_Page.resources
